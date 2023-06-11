@@ -1,0 +1,60 @@
+.main{
+    
+}
+
+.basic{
+    text-align: center !important;
+    /* font-weight: bold; */
+    font-size: larger;
+    padding: 10px;
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%,rgba(108,148,255,.92) 0,rgba(0,0,0,.92) 100%);
+    color: white !important;
+}
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+  }
+
+  video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .section3{
+    background-image: url('./image/model3.jpg');
+    background-size: 100%;
+  }
+  .section4{
+    background-image: url('./image/modely.webp');
+    background-size: 100%;
+  }
+  .section5{
+    background-image: url('./image/MODELSS.jpg');
+    background-size: 100%;
+  }
+  .section6{
+    background-image: url('./image/MODELX.jpg');
+    background-size: 100%;
+  }
+  .section7{
+    background-image: url('./image/SOLAR.jpg');
+    background-size: 100%;
+  }
+  .section8{
+    background-image: url('./image/solarroof.jpg');
+    background-size: 100%;
+  }
+  .section9{
+    background-image: url('./image/acceries.jpg');
+    background-size: 100%;
+  }
+  .sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
